@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ваш-логин.github.io/13_todo-manager",
+  "homepage": "https://katrinkh.github.io/13_todo-manager",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
